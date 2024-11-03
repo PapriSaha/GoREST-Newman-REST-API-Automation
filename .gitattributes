@@ -1,0 +1,5 @@
+*.html linguist-vendored
+*.json linguist-vendored
+public/* linguist-vendored
+scot-ui/public/* linguist-vendored
+*.js linguist-language=JavaScript

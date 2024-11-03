@@ -26,5 +26,7 @@ This project demonstrates automated API testing with Postman and generates repor
 
 ## API Documentation
 
+- https://documenter.getpostman.com/view/25676466/2sAY4xB2kx
+
 ## Newman Report Summary
 
